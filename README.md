@@ -1,6 +1,4 @@
-# Francisation_Qu-bec_Donn-es_et_visualisation.md
-
-
+# Francisation Quebec - Project du Donnes et Visualization
 
 # Analyse de la francisation au Québec
 
