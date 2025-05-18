@@ -2,14 +2,42 @@
 
 Pour ce étape on va analyser les répartitions par sexe, région, pays d’origine, etc.<br>
 
-A. 
+A. Graphique en barres
 
 Le graphique suivant montre la répartition des étudiants inscrits aux cours de français par région, au niveau de la province du Québec
 
 ![image](https://github.com/user-attachments/assets/ff71567f-2160-4e74-b2f3-245d12377fef)
 
 
-B.
+B. Carte
+
+
+
+
+![image](https://github.com/user-attachments/assets/e48ca318-0110-42c4-b4ef-2f7d1f71e091)
+
+
+
+
+
+
+
+C. Tableau
+
+
+![image](https://github.com/user-attachments/assets/6b6d4b10-2b44-4d05-9fc3-f682527501c1)
+
+
+
+
+
+
+
+D. Graphique Circulaire
+
+
+
+![image](https://github.com/user-attachments/assets/a58c8139-157e-41ae-937e-ae65cdf2e448)
 
 
 
@@ -21,37 +49,12 @@ B.
 
 
 
-C.
 
 
 
 
 
-
-
-
-
-D.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Étape 5. Visualisation des résultats<br>
+## Étape 5. Visualisation des résultats<br>
 
 Finalment, le tableau du bord et complete avec tout the quate graph qui montre l'information analyze sur le cours de francisation dispensé pour le Minister d'Inmigration, Francisation et Integration au Québec.
 
@@ -61,21 +64,14 @@ Finalment, le tableau du bord et complete avec tout the quate graph qui montre l
 ![image](https://github.com/user-attachments/assets/a358091b-a96f-4130-84ec-e8c6738eaa7a)
 
 
+<br>
 
 
 
+## Étape 6. Interprétation et conclusion <br>
 
 
 
-
-
-
-
-Étape 6. Interprétation et conclusion <br>
-
-(Interpretación y conclusiones)
-
-Exemple : Tirer des conclusions utiles pour orienter les décisions.<br>
 
 
 
