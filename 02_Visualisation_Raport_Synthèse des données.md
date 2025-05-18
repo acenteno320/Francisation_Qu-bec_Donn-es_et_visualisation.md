@@ -1,8 +1,40 @@
 ## Étape 4. Exploration et analyse des données <br>
 
-(Exploración y análisis de los datos)
+Pour ce étape on va analyser les répartitions par sexe, région, pays d’origine, etc.<br>
 
-Exemple : Analyser les répartitions par sexe, région, pays d’origine, etc.<br>
+A. 
+
+Le graphique suivant montre la répartition des étudiants inscrits aux cours de français par région, au niveau de la province du Québec
+
+![image](https://github.com/user-attachments/assets/ff71567f-2160-4e74-b2f3-245d12377fef)
+
+
+B.
+
+
+
+
+
+
+
+
+
+
+
+C.
+
+
+
+
+
+
+
+
+
+D.
+
+
+
 
 
 
@@ -21,10 +53,12 @@ Exemple : Analyser les répartitions par sexe, région, pays d’origine, etc.<b
 
 Étape 5. Visualisation des résultats<br>
 
-(Visualización de resultados)
+Finalment, le tableau du bord et complete avec tout the quate graph qui montre l'information analyze sur le cours de francisation dispensé pour le Minister d'Inmigration, Francisation et Integration au Québec.
 
-Exemple : Créer des graphiques (camembert, cartes, barres) pour communiquer les résultats.<br>
+ Il est inclus: Tableau, graphique en barres, graphique circulaire et carte pour communiquer les résultats.<br>
+ 
 
+![image](https://github.com/user-attachments/assets/a358091b-a96f-4130-84ec-e8c6738eaa7a)
 
 
 
