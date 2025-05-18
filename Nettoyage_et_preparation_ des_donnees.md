@@ -1,6 +1,6 @@
 ## Fases du processus d’analyse de données
 
-### Etape 2. Collecte des données
+### Étape 2. Collecte des données
 
 (Recopilación de datos)
 
@@ -21,7 +21,7 @@ Exemple : Rassembler les données démographiques et les inscriptions de 2023 à
 
 
 
-### Nettoyage et préparation des données
+###  Étape 3. Nettoyage et préparation des données
 
 (Limpieza y preparación de los datos)
 
