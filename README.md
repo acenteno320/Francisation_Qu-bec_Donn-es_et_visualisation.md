@@ -35,7 +35,6 @@ Ce projet vise à analyser les données ouvertes du ministère de l'Immigration,
 
 ---
 
-Tu veux que te ayude ahora a preparar el contenido del `README.md` real para tu repositorio, incluyendo los enlaces, descripción y gráfico inicial?
 
 
 
