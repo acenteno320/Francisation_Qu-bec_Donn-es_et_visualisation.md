@@ -33,6 +33,7 @@ Exemple : Corriger les erreurs, supprimer les doublons, harmoniser les formats. 
 
 
 
+![Splitting info in EXCEL SW](https://github.com/user-attachments/assets/e0b3d858-c981-4a22-ac2d-c502f1bdd20e)
 
 
 
