@@ -6,6 +6,7 @@
 
 Exemple : Rassembler les données démographiques et les inscriptions de 2023 à 2024.<br>
 
+Il a été constaté que certains enregistrements étaient incomplets et regroupés sous la même plage horaire de travail. Afin de résoudre ce problème de présentation des données, les informations concernées ont été placées sur des feuilles séparées au sein du même classeur Excel.
 
 
 
@@ -13,7 +14,7 @@ Exemple : Rassembler les données démographiques et les inscriptions de 2023 à
 
 
 
-
+![Splitting info in EXCEL SW_2](https://github.com/user-attachments/assets/39474e38-9226-4fe3-b4a7-7c4a5375ba0c)
 
 
 
