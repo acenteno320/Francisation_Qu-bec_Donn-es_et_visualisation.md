@@ -28,7 +28,7 @@ Exemple : Rassembler les données démographiques et les inscriptions de 2023 à
 Exemple : Corriger les erreurs, supprimer les doublons, harmoniser les formats. <br>
 
 
-
+Dans le cadre du processus de nettoyage et de préparation des données, celles-ci ont été réparties dans leurs colonnes respectives à l’aide de l’outil Intelligent Split Columns de Microsoft Excel.
 
 
 
