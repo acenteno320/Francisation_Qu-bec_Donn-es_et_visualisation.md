@@ -2,6 +2,15 @@
 
 Pour ce étape on va analyser les répartitions par sexe, région, pays d’origine, etc.<br>
 
+L'image suivante montre le jeu de données une fois nettoyé et chargé dans Tableau Public. Les relations entre les tables et les champs clés seront établies afin de créer les modèles. Pour chaque modèle, une visualisation sera ensuite élaborée, afin de compléter le tableau de bord
+
+
+![Loaded_dataset_tableau_public](https://github.com/user-attachments/assets/1fec7190-340d-4271-96e7-cccadaf6b17a)
+
+
+
+
+
 A. Graphique en barres
 
 Le graphique suivant montre la répartition des étudiants inscrits aux cours de français par région, au niveau de la province du Québec
