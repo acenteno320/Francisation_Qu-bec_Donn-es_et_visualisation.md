@@ -14,7 +14,7 @@ Ce projet vise à analyser les données ouvertes du ministère de l'Immigration,
 ## 📊 Outils utilisés
 
 - **Excel** – Nettoyage et préparation des données
-- **Tableau Desktop** – Création du tableau de bord interactif
+- **Tableau Desktop** – Création du tableau
   
 
 ## 📁 Structure du projet
@@ -29,9 +29,6 @@ Ce projet vise à analyser les données ouvertes du ministère de l'Immigration,
 
 - Données Québec : [Nombre de participants aux cours de francisation – MIFI](https://www.donneesquebec.ca/...)
 
-## 🔗 Tableau de bord
-
-📌 Voir le tableau de bord interactif sur [Tableau Public](https://public.tableau.com/...)
 
 ---
 
