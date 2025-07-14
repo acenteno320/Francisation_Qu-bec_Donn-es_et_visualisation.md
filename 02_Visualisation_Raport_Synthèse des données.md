@@ -34,7 +34,7 @@ Le graphique cartographique permet de visualiser la répartition géographique d
 
 
 C. Tableau <br>
-
+Ce tableau présente le nombre de personnes distinctes ayant participé aux cours de francisation selon la modalité: à temps partiel, en ligne ou en combinant plusierus modalités. Les données couvrent les années 2023 et 2024. Cet aperçu détaillé permet de suivre l'evolution de la participation selon le mode d'apprentissage, d'analyser les tendances et de soutenir l'adaptation de l'offre de cours en fonction des préférences et des besoins des apprenants.
 
 
 
