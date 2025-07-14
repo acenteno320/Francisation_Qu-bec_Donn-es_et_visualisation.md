@@ -81,10 +81,16 @@ Finalment, le tableau du bord et complete avec tout the quate graph qui montre l
 
 
 
-## Étape 6. Interprétation et conclusion <br>
+## Étape 6. Conclusion <br>
+
+Grâce à l'utilisation de Tableau Desktop, ce repport met en évidence différents aspects de la participation aux cours de francisation offerst au Québec. Le graphique cartographique permet de visualiser l'origine géographique circulaire met en lumière la répartition selon le genre, révélant les tendances de participation entre hommes et femmes. Le graphique à barres compare la répartition régionale et institutionnelle, offrant un aperçu clair des régions où la demande est plus forte. Enfin, le tableau de synthèse par modalités d'apprentissage (temps complet, temps partiel, en ligne) pour les années 2023 - 2024 permet de suivre  l 'évolution et les préférences des apprenants. 
+
+L'exploration de ces visualisations interactives favorise une compréhension approfondie des données et soutient la prise de décision stratégique pour adapter et améliorer l'offre de francisation selon les besoins réel des participants.
 
 
 
 
 
 
+
+-
