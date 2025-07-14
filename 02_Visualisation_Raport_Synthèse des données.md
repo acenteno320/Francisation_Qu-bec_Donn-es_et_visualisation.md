@@ -43,7 +43,7 @@ C. Tableau
 
 
 D. Graphique Circulaire
-
+Le graphique circulaire présente la répartition des participants selon le genre(hommes et femmes) aux cour de francisation. Cette visualisation met en évidence l'equilibre ou les écarts de participation entre les sexes, ce qui permet de mieux comprende le profil démographique et d'adapter, si nécessaire , les stratégies de sensibilisation et d'inclusion. 
 
 
 ![image](https://github.com/user-attachments/assets/a58c8139-157e-41ae-937e-ae65cdf2e448)
