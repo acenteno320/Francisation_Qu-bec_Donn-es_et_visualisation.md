@@ -12,7 +12,6 @@ L'image suivante montre le jeu de données une fois nettoyé et chargé dans Tab
 
 
 A. Graphique en barres<br>
-
 Le graphique à barres illustre le nombre de parsticipants aux cours de francisation selon les différentes régions du Quebec et les institutions désignées pour l'enseignement du francais. Cette représentation permet de comparer la participation régionale, d'identifier les zones à forte ou faible demande et de soutenir la planification des ressources et des offres de formation adaptées aux besoins locaux.  
 
 
@@ -35,6 +34,7 @@ Le graphique cartographique permet de visualiser la répartition géographique d
 
 
 C. Tableau <br>
+
 
 
 
