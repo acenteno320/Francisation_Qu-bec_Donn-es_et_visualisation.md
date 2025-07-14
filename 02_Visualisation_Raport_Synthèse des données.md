@@ -19,7 +19,7 @@ Le graphique suivant montre la répartition des étudiants inscrits aux cours de
 
 
 B. Carte
-
+Le graphique cartographique permet de visualiser la répartition géographique des participants selon leur pays d'origine. Cet outil facilite l'identification des zones géographiques les plus représentées et soutient la prise de décision pour orienter des actions ciblées , comme l'adaptation de cours ou la planification de nouvelles offres selon les besoins régionaux. 
 
 
 
