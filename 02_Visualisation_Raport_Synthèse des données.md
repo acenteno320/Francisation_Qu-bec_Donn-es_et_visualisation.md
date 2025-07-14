@@ -11,7 +11,7 @@ L'image suivante montre le jeu de données une fois nettoyé et chargé dans Tab
 
 
 
-A. Graphique en barres
+A. Graphique en barres<br>
 
 Le graphique suivant montre la répartition des étudiants inscrits aux cours de français par région, au niveau de la province du Québec
 
@@ -31,7 +31,8 @@ Le graphique cartographique permet de visualiser la répartition géographique d
 
 
 
-C. Tableau
+C. Tableau <br>
+
 
 
 ![image](https://github.com/user-attachments/assets/6b6d4b10-2b44-4d05-9fc3-f682527501c1)
@@ -42,7 +43,7 @@ C. Tableau
 
 
 
-D. Graphique Circulaire
+D. Graphique Circulaire <br>
 Le graphique circulaire présente la répartition des participants selon le genre(hommes et femmes) aux cour de francisation. Cette visualisation met en évidence l'equilibre ou les écarts de participation entre les sexes, ce qui permet de mieux comprende le profil démographique et d'adapter, si nécessaire , les stratégies de sensibilisation et d'inclusion. 
 
 
