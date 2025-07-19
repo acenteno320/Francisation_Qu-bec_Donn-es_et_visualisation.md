@@ -2,6 +2,12 @@
 
 # 📚 Analyse de la Francisation au Québec
 
+![Statut](https://img.shields.io/badge/Statut-En%20cours-orange)
+![Langue](https://img.shields.io/badge/Language-Français-blue)
+![Licence](https://img.shields.io/badge/Licence-MIT-green)
+![Technologies](https://img.shields.io/badge/Outils-Python%20%7C%20Tableau-lightgrey)
+
+
 ## 🗂️ Description
 Ce projet explore les données ouvertes liées aux programmes de francisation au Québec. L'objectif est de comprendre la répartition géographique, le volume des inscriptions et l'évolution des services offerts aux immigrants.
 
