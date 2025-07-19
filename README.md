@@ -11,7 +11,7 @@ Ce projet explore les données ouvertes liées aux programmes de francisation au
 - Créer des visualisations claires et interactives pour soutenir les décideurs et les organismes communautaires.
 
 ## 🛠️ Outils et technologies
-- **Excel** (Cleaning dataset file)
+- **Excel** (Nettoyage du jeu des données)
 - **Tableau Public** (Tableaux de bord interactifs)
 - **Sources de données** : Données ouvertes MIFI (Ministère de l'Immigration, de la Francisation et de l'Intégration)
 
