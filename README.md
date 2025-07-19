@@ -2,7 +2,7 @@
 
 # 📚 Analyse de la Francisation au Québec
 
-![Statut](https://img.shields.io/badge/Statut-En%20cours-orange)
+![Statut](https://img.shields.io/badge/Statut-Completed%20-green)
 ![Langue](https://img.shields.io/badge/Language-Français-blue)
 ![Licence](https://img.shields.io/badge/Licence-MIT-green)
 ![Technologies](https://img.shields.io/badge/Outils-Excel%20%7C%20Tableau-lightgrey)
