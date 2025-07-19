@@ -34,6 +34,11 @@ Ce projet explore les données ouvertes liées aux programmes de francisation au
 ## 🔗 Tableau de bord interactif
 👉 [Lien vers Tableau Public](https://tonlien.tableaupublic.com) 
 
+## Dashboard
+
+![Dashboard Francisation](./images/dashboard_francisation.png)
+
+
 
 ## 👩‍💻 Auteur
 Ana Centeno – Analyste de données et passionnée par l’analyse des politiques publiques.
