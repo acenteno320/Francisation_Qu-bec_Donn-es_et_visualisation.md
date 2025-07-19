@@ -38,10 +38,6 @@ Ce projet explore les données ouvertes liées aux programmes de francisation au
 ## 👩‍💻 Auteur
 Ana Centeno – Analyste de données et passionnée par l’analyse des politiques publiques.
 
-![Status](https://img.shields.io/badge/Statut-En%20cours-orange)
-
-
-
 ---
 
 **📬 Contact :** [LinkedIn](https://www.linkedin.com/in/ana-centeno-baltazar/) | [Email](CentenoAj@outlook.com)
