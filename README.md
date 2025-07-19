@@ -31,12 +31,8 @@ Ce projet explore les données ouvertes liées aux programmes de francisation au
 - Création de visualisations compréhensibles pour un public non technique.
 - Communication d'insights pertinents pour la prise de décision.
 
-## 🔗 Tableau de bord interactif
-👉 [Lien vers Tableau Public](https://tonlien.tableaupublic.com) 
 
 ## Dashboard
-
-![Dashboard Francisation](./images/dashboard_francisation.png)
 
 ![Dashboard Francisation](https://github.com/user-attachments/assets/a358091b-a96f-4130-84ec-e8c6738eaa7a)
 
