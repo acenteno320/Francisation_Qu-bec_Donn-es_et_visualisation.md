@@ -11,7 +11,7 @@ Ce projet explore les données ouvertes liées aux programmes de francisation au
 - Créer des visualisations claires et interactives pour soutenir les décideurs et les organismes communautaires.
 
 ## 🛠️ Outils et technologies
-- **Python** (Pandas, Matplotlib, Seaborn)
+- **Excel** (Cleaning dataset file)
 - **Tableau Public** (Tableaux de bord interactifs)
 - **Sources de données** : Données ouvertes MIFI (Ministère de l'Immigration, de la Francisation et de l'Intégration)
 
@@ -34,4 +34,4 @@ Ana Centeno – Analyste de données et passionnée par l’analyse des politiqu
 
 ---
 
-**📬 Contact :** [LinkedIn][(https://linkedin.com/in/tonprofil)](https://www.linkedin.com/in/ana-centeno-baltazar/) | [Email](CentenoAj@outlook.com)
+**📬 Contact :** [LinkedIn](https://www.linkedin.com/in/ana-centeno-baltazar/) | [Email](CentenoAj@outlook.com)
