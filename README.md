@@ -38,7 +38,7 @@ Ce projet explore les données ouvertes liées aux programmes de francisation au
 
 ![Dashboard Francisation](./images/dashboard_francisation.png)
 
-
+![Dashboard Francisation](https://github.com/user-attachments/assets/a358091b-a96f-4130-84ec-e8c6738eaa7a)
 
 ## 👩‍💻 Auteur
 Ana Centeno – Analyste de données et passionnée par l’analyse des politiques publiques.
