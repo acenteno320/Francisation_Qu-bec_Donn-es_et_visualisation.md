@@ -1,4 +1,4 @@
-# Francisation Quebec - Project du Donnes et Visualization
+# Francisation Québec - Project du Donnes et Visualization
 
 # 📚 Analyse de la Francisation au Québec
 
