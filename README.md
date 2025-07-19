@@ -1,41 +1,37 @@
 # Francisation Quebec - Project du Donnes et Visualization
 
-# Analyse de la francisation au Québec
+# 📚 Analyse de la Francisation au Québec
 
-Ce projet vise à analyser les données ouvertes du ministère de l'Immigration, de la Francisation et de l'Intégration (MIFI) sur la participation aux cours de francisation offerts aux nouveaux arrivants au Québec entre 2023 et 2024.
+## 🗂️ Description
+Ce projet explore les données ouvertes liées aux programmes de francisation au Québec. L'objectif est de comprendre la répartition géographique, le volume des inscriptions et l'évolution des services offerts aux immigrants.
 
 ## 🎯 Objectifs
+- Analyser les tendances des inscriptions aux cours de francisation.
+- Identifier les régions avec le plus grand nombre de participants.
+- Créer des visualisations claires et interactives pour soutenir les décideurs et les organismes communautaires.
 
-- Analyser la répartition des participants selon la modalité des cours de français reçus entre 2023 et 2024.
-- Identifier les régions du Québec où les personnes se sont inscrites aux cours de français durant la période 2023–2024.
-- Examiner les pays de naissance des migrants ayant étudié le français entre 2023 et 2024.
-- Observer la répartition des inscriptions aux cours de français selon le sexe pour la période 2023–2024.
+## 🛠️ Outils et technologies
+- **Python** (Pandas, Matplotlib, Seaborn)
+- **Tableau Public** (Tableaux de bord interactifs)
+- **Sources de données** : Données ouvertes MIFI (Ministère de l'Immigration, de la Francisation et de l'Intégration)
 
-## 📊 Outils utilisés
+## 📈 Résultats clés
+- Carte interactive de la distribution des participants par région.
+- Graphiques des tendances annuelles et saisonnières.
+- Indicateurs clés : volume d'inscription, taux de réussite, disponibilité des cours.
 
-- **Excel** – Nettoyage et préparation des données
-- **Tableau Desktop** – Création du tableau
-  
+## 🚀 Ce que j'ai appris
+- Nettoyage et préparation de données gouvernementales.
+- Création de visualisations compréhensibles pour un public non technique.
+- Communication d'insights pertinents pour la prise de décision.
 
-## 📁 Structure du projet
+## 🔗 Tableau de bord interactif
+👉 [Lien vers Tableau Public](https://tonlien.tableaupublic.com) 
 
-- `donnees_brutes/` : Données originales téléchargées depuis Données Québec
-- `donnees_traitees/` : Fichiers nettoyés et standardisés
-- `analyse/` : Fichiers Excel ou notebooks d’analyse
-- `visualisations/` : Graphiques statiques et captures d’écran
-- `rapports/` : Rapports finaux ou résumés d’analyse
 
-## 📎 Sources de données
-
-- Données Québec : [Nombre de participants aux cours de francisation – MIFI](https://www.donneesquebec.ca/...)
-
+## 👩‍💻 Auteur
+Ana Centeno – Analyste de données et passionnée par l’analyse des politiques publiques.
 
 ---
 
-
-
-
-
-
-
-
+**📬 Contact :** [LinkedIn][(https://linkedin.com/in/tonprofil)](https://www.linkedin.com/in/ana-centeno-baltazar/) | [Email](CentenoAj@outlook.com)
